@@ -13,7 +13,7 @@ pipeline{
                 
                 script{
                     
-                    git branch: 'main', url: 'https://github.com/praveen1994dec/Java_App.git'
+                    git branch: 'main', url: 'https://github.com/test-DD/Java_App.git'
                 }
             }
         }
